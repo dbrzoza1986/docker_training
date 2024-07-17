@@ -1,0 +1,4 @@
+# ignore all txt rtf files 
+*.txt
+*.rtf
+.DS_Store
